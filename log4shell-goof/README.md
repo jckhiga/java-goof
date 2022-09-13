@@ -1,6 +1,6 @@
 ## Log4Shell Goof
 
-Primeiro commit.
+Primeiro commit e agora na branch primeira-branch.
 
 The purpose of this project is to demonstrate the Log4Shell exploit with Log4J versions older than `2.15.0`.
 
