@@ -1,7 +1,5 @@
 ## Log4Shell Goof
 
-Primeiro commit.
-
 The purpose of this project is to demonstrate the Log4Shell exploit with Log4J versions older than `2.15.0`.
 
 **NOTE**: Multiple additional vulnerabilities have been disclosed with log4j. Make sure you're using the latest `2.17.x` version.
